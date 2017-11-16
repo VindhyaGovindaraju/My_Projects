@@ -45,10 +45,6 @@ Indian Medical Association is the only representative voluntary organization of 
 ## Class Diagram
 ![classdiagram](https://user-images.githubusercontent.com/25045759/29498395-4b82c1ec-85c9-11e7-91b5-eacf484d8188.png)
 
-## Activity Diagram
-### <a href="https://github.com/Uppalapa/Business-Analytics/blob/master/ActivityDaigram/README.md"> ACTIVITY DIAGRAM README</a>
-
-
 ## Future Scope
 * Health in Hands application can be extended to other countries
 * This application can also be extended to android users
@@ -85,7 +81,7 @@ Indian Medical Association is the only representative voluntary organization of 
 
 ### Patient Screens
 #### Home screen
-![1](https://user-images.githubusercontent.com/25045759/29498520-0dcd2826-85cc-11e7-8380-717ad421aa33.png)
+![patientmainscreen](https://user-images.githubusercontent.com/33168434/32869001-b4b5f73e-ca42-11e7-8b31-3c0dced4a826.png)
 #### Profile
 ![3](https://user-images.githubusercontent.com/25045759/29498564-31f6b04a-85cd-11e7-83db-37ae9f1daf3b.png)
 #### Reminder

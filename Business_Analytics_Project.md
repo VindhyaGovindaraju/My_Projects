@@ -120,7 +120,7 @@ Indian Medical Association is the only representative voluntary organization of 
 
 
 #### Appointments
-![docappointment 1](https://user-images.githubusercontent.com/25045759/29498627-7c7228a6-85ce-11e7-9aab-030db2c046f1.png)
+![dcappointment](https://user-images.githubusercontent.com/33168434/32869003-b4d03d1a-ca42-11e7-918a-d040b92ba14d.png)
 
 
 #### Set Appointment Calendar Screen

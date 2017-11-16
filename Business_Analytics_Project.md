@@ -65,7 +65,7 @@ Indian Medical Association is the only representative voluntary organization of 
 ![screen 1](https://user-images.githubusercontent.com/25045759/29498415-de3f554a-85c9-11e7-8040-0d1f45445f99.png)
 
 ### Patient Screens
-![pat1](https://user-images.githubusercontent.com/25045759/29498491-b1fddc3e-85cb-11e7-810b-f3388a1768c8.png)
+![pat1](https://user-images.githubusercontent.com/33168434/32868996-b47fc56a-ca42-11e7-9405-63f1c590505a.png)
 
 ### Doctor Screens
 ![doctorprofileview](https://user-images.githubusercontent.com/25045759/29498481-6f5d9e78-85cb-11e7-8dd7-39d3f281334b.png)

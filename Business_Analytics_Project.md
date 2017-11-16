@@ -95,7 +95,7 @@ Indian Medical Association is the only representative voluntary organization of 
 
 
 #### Upload reports
-![11](https://user-images.githubusercontent.com/25045759/29498576-7488d29e-85cd-11e7-96fd-ffcbcbaf288d.png)
+![reports](https://user-images.githubusercontent.com/33168434/32868999-b49f8ada-ca42-11e7-9c03-8a69d07db047.png)
 
 #### Search with location
 ![15 3](https://user-images.githubusercontent.com/25045759/29498595-c4384590-85cd-11e7-8504-7811f3805f35.png)
